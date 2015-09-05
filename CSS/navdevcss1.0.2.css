@@ -1,0 +1,126 @@
+/* Header Bar CSS Begins Here*/
+
+#navbar {
+    height: 70px;
+    width: 100%, auto;
+    background-color: inherit;
+    border-color: #000000;
+    border-style: solid;
+    border-bottom-width: 4px;
+}
+
+#homebutton {
+    padding-left: 0;
+    padding-right: 0;
+    height: 67px;
+    border-right-width: 4px;
+    border-left-width: 4px;
+    border-bottom-width: 4px;
+    border-color: #000000;
+    border-style: solid;
+}
+
+#name {
+    height: 67px;
+    margin-top: inherit;
+    font-size: 41px;
+    font-family: 'lobster', cursive;
+    color: #000000;
+    background-color: inherit;
+    border-left-width: 0px;
+    border-right-width: 4px;
+    border-top-width: 0px;
+    border-bottom-width: 4px;
+    border-style: solid;
+    border-color: #000000;
+    text-align: center;
+    padding-top: 5px;
+}
+
+#keyturn {
+    font-family: 'lobster', cursive;
+    color: #000000;
+    border-color: #000000;
+    border-width: 3px;
+    border-radius: 5px;
+    margin-top: 3px;
+    position: relative;
+    left: 13px;
+}
+
+#unlockarea {
+    background-color: inherit;
+    color: #000000;
+    font-family: 'lobster', cursive;
+    font-size: 14px;
+    justify-content: center;
+    align-content: center;
+}
+
+#keyhole {
+    margin-top: 2px;
+}
+
+#menuicon {
+    font-size: 4.2em;
+    font-stretch: expanded;
+}
+
+#menu {
+    top: auto;
+    background-color: inherit;
+    color: #000000;
+    justify-content: center;
+    text-align: center;
+    border-right-width: 4px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-color: #000000;
+    border-style: solid;
+}
+
+#menu.hover {
+    top: auto;
+    background-color: inherit;
+    color: #000000;
+    justify-content: center;
+    text-align: center;
+    border-right-width: 4px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-color: #000000;
+    border-style: solid;
+}
+
+<!-- This is the NavBar List --> #menuarea {
+    height: 300px;
+    width: 150px;
+    background color: #737373;
+}
+
+#menulist {
+    list-style-image: none;
+    background-color: inherit;
+}
+
+#menulink {
+    color: #000000;
+    background-color: inherit;
+    list-style-image: none;
+    display: block;
+}
+
+#menubars {
+    width: 80px;
+    display: block;
+    list-style-type: none;
+    background-color: inherit;
+    font-family: 'lobster', cursive;
+    color: #000000;
+    text-align: center;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 4px;
+}

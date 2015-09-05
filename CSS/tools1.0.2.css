@@ -1,0 +1,82 @@
+#project_id {
+    font-family: 'lobster', cursive;
+    position: fixed;
+    width: 11%;
+    top: 25%;
+    text-align: center;
+}
+
+#whitebar {
+    position: fixed;
+    width: 25%;
+    height: 25%;
+    top: 5%;
+    left: 15%;
+    background-color: #ffffff;
+    z-index: 2;
+}
+
+#blackbar {
+    position: fixed;
+    width: 12.5%;
+    height: 50%;
+    top: 5%;
+    left: 15%;
+    background-color: #000000;
+    z-index: 3;
+}
+
+#project_id1 {
+    font-family: 'lobster', cursive;
+    position: fixed;
+    width: 11%;
+    top: 85%;
+    text-align: center;
+}
+
+#whitebar1 {
+    position: fixed;
+    width: 25%;
+    height: 25%;
+    top: 65%;
+    left: 15%;
+    background-color: #ffffff;
+    z-index: 2;
+}
+
+#blackbar1 {
+    position: fixed;
+    width: 12.5%;
+    height: 50%;
+    top: 65%;
+    left: 15%;
+    background-color: #000000;
+    z-index: 3;
+}
+
+#project_id2 {
+    font-family: 'lobster', cursive;
+    position: fixed;
+    width: 11%;
+    text-align: center;
+}
+
+#whitebar2 {
+    position: fixed;
+    width: 25%;
+    height: 25%;
+    top: 5%;
+    left: 15%;
+    background-color: #ffffff;
+    z-index: 2;
+}
+
+#blackbar2 {
+    position: absolute;
+    width: 12.5%;
+    height: 50%;
+    top: 5%;
+    left: 15%;
+    background-color: #000000;
+    z-index: 3;
+}
